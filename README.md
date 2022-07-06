@@ -1,33 +1,25 @@
-# <p align="center">Sample Name</p>
+# <p align="center">Unity Scripts</p>
 <p align="center">
-  <a href="https://github.com/aprilspeight/<repo-name>/blob/master/README.md#requirements">Requirements</a> |
-  <a href="https://github.com/aprilspeight/<repo-name>/blob/master/README.md#videos">Videos</a> |
-  <a href="https://github.com/aprilspeight/<repo-name>/blob/master/README.md#view-the-sample">View the Sample</a> | 
-  <a href="https://github.com/aprilspeight/<repo-name>/blob/master/README.md#resources">Resources</a> | 
-  <a href="https://github.com/aprilspeight/<repo-name>/blob/master/README.md#contact">Contact</a>
+  <a href="https://github.com/aprilspeight/unity-scripts/blob/master/README.md#requirements">Requirements</a> |
+  <a href="https://github.com/aprilspeight/unity-scripts/blob/master/README.md#videos">Instructionss</a> |
+  <a href="https://github.com/aprilspeight/unity-scripts/blob/master/README.md#view-the-sample">Resources</a> | 
+  <a href="https://github.com/aprilspeight/unity-scripts/blob/master/README.md#contact">Contact</a>
 </p>
 
-Sample description.
+This repository contains various Unity scripts that I figured would be most beneficial to document not just for myself but for new Unity devs. You're welcome to use any of the scripts within the repository for your own projects. I'll continue to add scripts as I discover additional basic things one should know how to do with Unity scripting.
 
 ## Requirements
 
-- Requirement 1
-- Requirement 2
-- Requirement 3
+- Unity 2021 LTS
+- Visual Studio
 
-## Videos
+## Instructions
 
-Videos are published on YouTube in the playlist: [Playlist Name](https://www.youtube.com/<playlist-link>)
+Instructions are published on my website within the [Unity](https://www.vogueandcode.com/link-to-category>) category.
 
 |  Title |  Description |  Link |
 |---|---|---|
-| **Video Name**  | Description  |  [link](https://<link> )|
-| **Video Name**  | Description  |  [link](https://<link> )|
-| **Video Name**  | Description  |  [link](https://<link> )|
-
-## View the Sample
-
-Instructions on how to view the sample.
+| How to Spawn an Object  | Use `instantiate()` to spawn objects.  |  [link](https://<link> )|
 
 ## Resources
 
@@ -37,4 +29,4 @@ Instructions on how to view the sample.
 
 ## Contact
 
-Have a question or issue accessing a video or trying the sample? Submit an issue to the repo!
+Have a question or issue with a script? Submit an issue to the repo!
