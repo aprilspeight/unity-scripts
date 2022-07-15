@@ -19,7 +19,7 @@ Instructions are published on my website within the [Unity](https://www.vogueand
 
 |  Title |  Description |  Link |
 |---|---|---|
-| How to Spawn an Object  | Use `instantiate()` to spawn objects.  |  [link](https://<link> )|
+| How to Spawn an Object  | Use `Instantiate()` to spawn objects.  |  [link](https://<link> )|
 
 ## Resources
 
