@@ -20,10 +20,22 @@ public class Spawner : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        // Define range for random values
+        /*int spawnPointX = Random.Range(-2, 2);
+        int spawnPointY = Random.Range(-2, 2);
+        int spawnPointZ = Random.Range(-2, 2);
+        Vector3 spawnPosition = new Vector3(spawnPointX, spawnPointY, spawnPointZ);*/
+
         // Spawns a prefab when a key is pressed
         /*if (Input.GetKeyDown("space"))
         {
             Instantiate(prefab);
+        }*/
+
+        // Spawns a prefab at a random position when a key is pressed
+        /*if (Input.GetKeyDown("space"))
+        {
+            Instantiate(prefab, spawnPosition, Quaternion.identity);
         }*/
     }
 }
