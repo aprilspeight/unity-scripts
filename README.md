@@ -1,7 +1,7 @@
 # <p align="center">Unity Scripts</p>
 <p align="center">
   <a href="https://github.com/aprilspeight/unity-scripts/blob/master/README.md#requirements">Requirements</a> |
-  <a href="https://github.com/aprilspeight/unity-scripts/blob/master/README.md#videos">Instructionss</a> |
+  <a href="https://github.com/aprilspeight/unity-scripts/blob/master/README.md#videos">Instructions</a> |
   <a href="https://github.com/aprilspeight/unity-scripts/blob/master/README.md#view-the-sample">Resources</a> | 
   <a href="https://github.com/aprilspeight/unity-scripts/blob/master/README.md#contact">Contact</a>
 </p>
