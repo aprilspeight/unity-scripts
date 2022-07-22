@@ -19,14 +19,13 @@ Instructions are published on my website within the [Unity](https://www.vogueand
 
 |  Title |  Description |  Link |
 |---|---|---|
-| How to Spawn an Object  | Use `Instantiate()` to spawn objects.  |  [link](https://<link> )|
-| How to Load a Scene  | Use `LoadScene` to spawn objects.  |  [link](https://<link> )|
+| How to Spawn an Object  | Use `Instantiate()` to spawn objects.  |  [Blog Post](https://www.vogueandcode.com/posts/how-to-spawn-an-object)|
+| How to Load a Scene  | Use `LoadScene` to spawn objects.  |  [Blog Post](https://www.vogueandcode.com/posts/how-to-load-a-scene)|
 
 ## Resources
 
-- Resource 1
-- Resource 2
-- Resource 3
+- [Unity Reference Docs](https://docs.unity3d.com/ScriptReference/index.html)
+- [Unity Junior Programmer](https://learn.unity.com/pathway/junior-programmer)
 
 ## Contact
 
