@@ -21,8 +21,8 @@ Instructions are either published on my website within the [Unity](https://www.v
 |---|---|---|
 | Spawn an Object  | Use `Instantiate()` to spawn objects.  |  [Blog Post](https://www.vogueandcode.com/posts/how-to-spawn-an-object)|
 | Load a Scene  | Use `LoadScene` to spawn objects.  |  [Blog Post](https://www.vogueandcode.com/posts/how-to-load-a-scene)|
-| Control a Player  | Control with keyboard input  |  [Blog Post](https://learn.unity.com/course/create-with-code)|
-| Camera Follows a Player  | Set camera position to the position of the player  |  [Blog Post](https://learn.unity.com/course/create-with-code)|
+| Control a Player  | Control with keyboard input  |  [Unity Learn](https://learn.unity.com/course/create-with-code)|
+| Camera Follows a Player  | Set camera position to the position of the player  |  [Unity Learn](https://learn.unity.com/course/create-with-code)|
 
 ## Resources
 
