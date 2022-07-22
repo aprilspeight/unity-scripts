@@ -15,12 +15,14 @@ This repository contains various Unity scripts that I figured would be most bene
 
 ## Instructions
 
-Instructions are published on my website within the [Unity](https://www.vogueandcode.com/link-to-category>) category.
+Instructions are either published on my website within the [Unity](https://www.vogueandcode.com/link-to-category>) category <b>or</b> within [Unity Learn](https://learn.unity.com/).
 
 |  Title |  Description |  Link |
 |---|---|---|
-| How to Spawn an Object  | Use `Instantiate()` to spawn objects.  |  [Blog Post](https://www.vogueandcode.com/posts/how-to-spawn-an-object)|
-| How to Load a Scene  | Use `LoadScene` to spawn objects.  |  [Blog Post](https://www.vogueandcode.com/posts/how-to-load-a-scene)|
+| Spawn an Object  | Use `Instantiate()` to spawn objects.  |  [Blog Post](https://www.vogueandcode.com/posts/how-to-spawn-an-object)|
+| Load a Scene  | Use `LoadScene` to spawn objects.  |  [Blog Post](https://www.vogueandcode.com/posts/how-to-load-a-scene)|
+| Control a Player  | Control with keyboard input  |  [Blog Post](https://learn.unity.com/course/create-with-code)|
+| Camera Follows a Player  | Set camera position to the position of the player  |  [Blog Post](https://learn.unity.com/course/create-with-code)|
 
 ## Resources
 
